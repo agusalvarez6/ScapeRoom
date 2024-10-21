@@ -1,0 +1,10 @@
+[
+    {
+        "pregunta": "¿Cuál es la capital de Francia?",
+        "respuesta": "paris"
+    },
+    {
+        "pregunta": "¿Cuál es el lenguaje de programación de esta aplicación?",
+        "respuesta": "python"
+    }
+]

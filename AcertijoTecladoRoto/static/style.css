@@ -1,0 +1,19 @@
+.correct {
+    color: green;
+}
+
+.incorrect {
+    color: red;
+}
+
+.info {
+    color: yellow;
+}
+    
+.console-output {
+    white-space: pre-wrap;
+    word-wrap: break-word;
+    max-height: 80%;
+    overflow-y: auto;
+    margin-bottom: 20px; /* Agregar espacio inferior */
+}
